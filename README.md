@@ -4,10 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a3a5c&height=200&section=header&text=Caio%20Nascimento&fontSize=52&fontColor=e0f0ff&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20%7C%20Builder&descAlignY=58&descSize=18&descColor=7ab8d9)
 
 <!-- Badges de redes -->
-[![Instagram](https://img.shields.io/badge/@caio.devsec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caio.devsec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caionascimento)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caionascimento)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio@email.com)
+[![Instagram](https://img.shields.io/badge/@caiondev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caiondev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiownascimento)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiondev)
 
 </div>
 
@@ -85,7 +84,7 @@ Além do desenvolvimento, estudo e aplico práticas de segurança da informaçã
 - 🛡️ Segurança em aplicações web (OWASP Top 10)
 - 🔍 Análise de vulnerabilidades e endurecimento de sistemas
 - 🧠 CTF e aprendizado contínuo em pentest
-- 📢 Divulgação de conteúdo sobre segurança no [@caio.devsec](https://instagram.com/caio.devsec)
+- 📢 Divulgação de conteúdo sobre segurança no [@caiondev](https://instagram.com/caiondev)
 
 ---
 
@@ -102,11 +101,11 @@ Além do desenvolvimento, estudo e aplico práticas de segurança da informaçã
 
 <div align="center">
 
-![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caionascimento&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ab8d9&icon_color=7ab8d9&text_color=e0f0ff)
+![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiondev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ab8d9&icon_color=7ab8d9&text_color=e0f0ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caionascimento&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ab8d9&text_color=e0f0ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiondev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ab8d9&text_color=e0f0ff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=caionascimento&theme=tokyonight&hide_border=true&background=0d1117&ring=7ab8d9&fire=e0f0ff&currStreakLabel=7ab8d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=caiondev&theme=tokyonight&hide_border=true&background=0d1117&ring=7ab8d9&fire=e0f0ff&currStreakLabel=7ab8d9)
 
 </div>
 
